@@ -4,6 +4,7 @@
 
 - run a script against a specific network
 - move gui to root
+- check/move to https://github.com/austintgriffith/scaffold-eth
 
 ## INSTALL
 
