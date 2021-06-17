@@ -1,6 +1,7 @@
 # Boilerplate for ethereum solidity smart contract development
 
 ## TODO
+
 - run a script against a specific network
 - move gui to root
 
